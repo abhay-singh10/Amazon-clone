@@ -14,6 +14,7 @@ A simple static clone of the Amazon homepage built using HTML and CSS. This proj
 
 Preview: 
 ![image](https://github.com/user-attachments/assets/c4445db9-ae71-4133-baf2-ff30f6f78b4e)
+![image](https://github.com/user-attachments/assets/42e7d27c-b192-4e7e-8ded-3cdd03f1508e)
 ![image](https://github.com/user-attachments/assets/63d64815-8722-4d1c-9166-7f61cef7ddbc)
 
     
